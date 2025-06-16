@@ -14,7 +14,11 @@ Este es un pequeño gestor de tareas por línea de comandos que permite:
 - Marcar tareas como "en progreso" o "completadas"
 - Listar tareas según su estado (`todo`, `in-progress`, `done`)
 
-Esta versión guarda las tareas en una **base de datos MySQL**, lo que permite un mejor manejo de datos en proyectos más grandes o colaborativos.
+## 🚀 Versiones
+
+Esta tarea tiene dos versiones: 
+- Guarda las tareas en una **base de datos MySQL**, lo que permite un mejor manejo de datos en proyectos más grandes o colaborativos.
+- Manipula un archivo **JSON**, puedes probarla en el archivo tasks.php, ejecutandolo te saltará una ayuda sobre el funcionamiento de ella.
 
 ## 🏗️ Funcionalidades principales
 
