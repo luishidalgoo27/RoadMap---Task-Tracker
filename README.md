@@ -1,6 +1,6 @@
 # 🧰 Task Tracker CLI con MySQL
 
-Este proyecto es una implementación del reto propuesto por [roadmap.sh: Task Tracker CLI](https://roadmap.sh/projects/task-tracker), con una modificación importante: en lugar de usar un archivo JSON para guardar las tareas, se utiliza una **base de datos MySQL**.
+Este proyecto es una implementación del reto propuesto por [roadmap.sh: Task Tracker CLI](https://roadmap.sh/projects/task-tracker), con dos versiones una usando un archivo JSON para guardar las tareas y otra que utiliza una **base de datos MySQL**.
 
 ## 🔗 Enlace al reto original
 
